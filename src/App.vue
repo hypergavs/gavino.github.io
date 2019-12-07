@@ -22,8 +22,8 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <img data-aos="fade-down" src="/images/education.svg" class="img img-fluid d-none d-md-block" alt="" srcset="">
-                        <img data-aos="fade-down" src="/images/education-responsive.svg" class="img img-fluid d-md-none d-sm-block" alt="" srcset="">
+                        <img data-aos="fade-down" src="images/education.svg" class="img img-fluid d-none d-md-block" alt="" srcset="">
+                        <img data-aos="fade-down" src="images/education-responsive.svg" class="img img-fluid d-md-none d-sm-block" alt="" srcset="">
                     </div>
                 </div>
                 
@@ -43,7 +43,7 @@
                         </p>
                     </div>
                     <div class="col-md-6">
-                        <img src="/images/work-experience.svg" class="img img-fluid" alt="" srcset="" data-aos="fade-left" data-aos-delay="700">
+                        <img src="images/work-experience.svg" class="img img-fluid" alt="" srcset="" data-aos="fade-left" data-aos-delay="700">
                     </div>
                 </div>
                 
@@ -60,7 +60,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="100">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/photoshop.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/photoshop.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">Photoshop</div>
@@ -69,7 +69,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="200">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/html5.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/html5.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">HTML</div>
@@ -78,7 +78,7 @@
                     
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="400">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/css-3.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/css-3.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">CSS</div>
@@ -87,7 +87,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="500">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/php.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/php.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">PHP</div>
@@ -96,7 +96,7 @@
                     
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="600">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/mysql.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/mysql.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">MySQL</div>
@@ -105,7 +105,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="700">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/javascript.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/javascript.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">Javascript</div>
@@ -114,7 +114,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="800">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/jquery.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/jquery.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">JQuery</div>
@@ -128,7 +128,7 @@
                 <div class="col-md-12 d-flex">
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="900">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/wordpress.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/wordpress.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">Wordpress</div>
@@ -137,7 +137,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="1000">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/bootstrap.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/bootstrap.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">Bootstrap</div>
@@ -146,7 +146,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="1100">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/illustrator.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/illustrator.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">Illustrator</div>
@@ -155,7 +155,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="1200">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/laravel.svg" class="img img-fluid" alt="" srcset="">
+                            <img src="images/skills/laravel.svg" class="img img-fluid" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">Laravel</div>
@@ -164,7 +164,7 @@
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="1300">
                         <div class="icon align-self-center">
-                            <img src="/images/skills/vuejs.svg" class="img" alt="" srcset="">
+                            <img src="images/skills/vuejs.svg" class="img" alt="" srcset="">
                         </div>
                         <div class="rate-wrap d-block">
                             <div class="titile text-center">VueJS</div>
@@ -186,7 +186,7 @@
                 <div class="row d-flex flex-wrap">
                     <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
                         <h5 class="text-center mb-4">Seven Speed Lending Management System</h5>
-                        <img src="/images/projects/sevenspeed.jpg" class="img img-fluid" alt="" srcset="">
+                        <img src="images/projects/sevenspeed.jpg" class="img img-fluid" alt="" srcset="">
                         <div class="links d-flex justify-content-center align-items-center my-3">
                             <a href="#" alt="Preview is only " aria-disabled="true" class="mr-3 btn disabled"><font-awesome-icon icon="eye"></font-awesome-icon> Live Preview</a>
                             <a href="#" aria-disabled="true" class="btn disabled"><font-awesome-icon icon="code"></font-awesome-icon> Source Code</a>
@@ -197,7 +197,7 @@
                     </div>
                     <div class="col-md-4" data-aos="fade-up" data-aos-delay="400">
                         <h5 class="text-center mb-4">FastCash3k.com<br><br></h5>
-                        <img src="/images/projects/fastcash3k.jpg" class="img img-fluid" alt="" srcset="">
+                        <img src="images/projects/fastcash3k.jpg" class="img img-fluid" alt="" srcset="">
                         <div class="links d-flex justify-content-center align-items-center my-3">
                             <a href="https://fastcash3k.com/" alt="Preview is only " aria-disabled="true" class="mr-3"><font-awesome-icon icon="eye"></font-awesome-icon> Live Preview</a>
                             <a href="#" aria-disabled="true" class="btn disabled"><font-awesome-icon icon="code"></font-awesome-icon> Source Code</a>
@@ -206,7 +206,7 @@
                     </div>
                     <div class="col-md-4" data-aos="fade-up" data-aos-delay="600">
                         <h5 class="text-center mb-4">Pharmacy Inventory and Point of Sale</h5>
-                        <img src="/images/projects/pharmacy.jpg" class="img img-fluid" alt="" srcset="">
+                        <img src="images/projects/pharmacy.jpg" class="img img-fluid" alt="" srcset="">
                         <div class="links d-flex justify-content-center align-items-center my-3">
                             <a href="#" alt="Preview is only " aria-disabled="true" class="mr-3 btn disabled"><font-awesome-icon icon="eye"></font-awesome-icon> Live Preview</a>
                             <a href="#" aria-disabled="true" class="btn disabled"><font-awesome-icon icon="code"></font-awesome-icon> Source Code</a>
