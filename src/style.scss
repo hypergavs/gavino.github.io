@@ -1,0 +1,141 @@
+//
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main-wrapper{
+    width: 100%;
+    min-height: 100vh;
+    #heading-wrap{
+        width: 100%;
+        height: 100vh;
+        background: url('/images/code-coding-computer-data-574071.jpg') no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        #greetings{
+            color: #FFF;
+            text-align: center;
+            h1{
+                font-size: 4em;
+                span{
+                    color: rgb(0, 108, 202) !important;
+                }
+            }
+            h4{
+                font-size: 2em;
+            }
+        }
+        #more_about_me{
+            position: absolute;
+            bottom: 100px;
+            color: #FFF;
+            #arrow{
+                text-align: center;
+                font-size: 4em;
+                font-weight: 100;
+            }
+        }
+        
+    }
+    #about-me{
+        width: 100%;
+        min-height: 100vh;
+        background-attachment: fixed;
+        background-size: cover;
+        background: #FFF;
+        #education{
+            font-family: 'Montserrat', sans-serif !important;
+        }
+    }
+    #skills{
+        width: 100%;
+        min-height: 50vh;
+        background-attachment: fixed;
+        background-size: cover;
+        background: rgb(47, 47, 47);
+        color: #FFF;
+        z-index: 1000;
+        .skill{
+            margin: 10px auto;
+            .icon{
+                width: 50px;
+                height: 50px;
+            }
+            
+
+        }
+    }
+
+    #my-works{
+        width: 100%;
+        min-height: 50vh;
+        background: #FFF;
+    }
+
+    #contact{
+        width: 100%;
+        min-height: 70vh;
+        background: url('/images/shakehand.jpeg') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        .contact-info{
+            font-size: 20px;
+        }
+    }
+
+    #footer{
+        width: 100%;
+        min-height: 100px;
+        background: rgb(47, 47, 47);
+        color: #FFF;
+    }
+    
+}
+
+
+@media (max-width: 900px){
+
+#main-wrapper{
+    #heading-wrap{
+        #greetings{
+            color: #FFF;
+            h1{
+                font-size: 3em;
+            }
+            h4{
+                font-size: 2em;
+            }
+        }
+    }
+    
+}
+
+
+
+}
+
+
+@media (max-width: 768px){
+
+    #main-wrapper{
+        #heading-wrap{
+            #greetings{
+                color: #FFF;
+                h1{
+                    font-size: 2.5em;
+                }
+                h4{
+                    font-size: 1.5em;
+                }
+            }
+        }
+        
+    }
+    
+    
+    
+    }
