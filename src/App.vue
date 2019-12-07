@@ -186,7 +186,7 @@
                 <div class="row d-flex flex-wrap">
                     <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
                         <h5 class="text-center mb-4">Seven Speed Lending Management System</h5>
-                        <img src="images/projects/sevenspeed.jpg" class="img img-fluid" alt="" srcset="">
+                        <img src="images/projects/sevenspeed.JPG" class="img img-fluid" alt="" srcset="">
                         <div class="links d-flex justify-content-center align-items-center my-3">
                             <a href="#" alt="Preview is only " aria-disabled="true" class="mr-3 btn disabled"><font-awesome-icon icon="eye"></font-awesome-icon> Live Preview</a>
                             <a href="#" aria-disabled="true" class="btn disabled"><font-awesome-icon icon="code"></font-awesome-icon> Source Code</a>
@@ -197,7 +197,7 @@
                     </div>
                     <div class="col-md-4" data-aos="fade-up" data-aos-delay="400">
                         <h5 class="text-center mb-4">FastCash3k.com<br><br></h5>
-                        <img src="images/projects/fastcash3k.jpg" class="img img-fluid" alt="" srcset="">
+                        <img src="images/projects/fastcash3k.JPG" class="img img-fluid" alt="" srcset="">
                         <div class="links d-flex justify-content-center align-items-center my-3">
                             <a href="https://fastcash3k.com/" alt="Preview is only " aria-disabled="true" class="mr-3"><font-awesome-icon icon="eye"></font-awesome-icon> Live Preview</a>
                             <a href="#" aria-disabled="true" class="btn disabled"><font-awesome-icon icon="code"></font-awesome-icon> Source Code</a>
@@ -206,7 +206,7 @@
                     </div>
                     <div class="col-md-4" data-aos="fade-up" data-aos-delay="600">
                         <h5 class="text-center mb-4">Pharmacy Inventory and Point of Sale</h5>
-                        <img src="images/projects/pharmacy.jpg" class="img img-fluid" alt="" srcset="">
+                        <img src="images/projects/pharmacy.JPG" class="img img-fluid" alt="" srcset="">
                         <div class="links d-flex justify-content-center align-items-center my-3">
                             <a href="#" alt="Preview is only " aria-disabled="true" class="mr-3 btn disabled"><font-awesome-icon icon="eye"></font-awesome-icon> Live Preview</a>
                             <a href="#" aria-disabled="true" class="btn disabled"><font-awesome-icon icon="code"></font-awesome-icon> Source Code</a>
