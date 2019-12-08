@@ -110,7 +110,6 @@ body{
     }
     #about-me{
         width: 100%;
-        min-height: 100vh;
         background-attachment: fixed;
         background-size: cover;
         background: #FFF;
@@ -120,7 +119,6 @@ body{
     }
     #skills{
         width: 100%;
-        min-height: 50vh;
         background-attachment: fixed;
         background-size: cover;
         background: rgb(47, 47, 47);
@@ -139,13 +137,11 @@ body{
 
     #my-works{
         width: 100%;
-        min-height: 50vh;
         background: #FFF;
     }
 
     #contact{
         width: 100%;
-        min-height: 70vh;
         background: url('/images/shakehand.jpeg') no-repeat;
         background-attachment: fixed;
         background-size: cover;
