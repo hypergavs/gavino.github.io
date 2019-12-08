@@ -1,14 +1,38 @@
 <template>
     <div id="main-wrapper">
+        <div id="nav-bar">
+            <div id="branding">
+                Gavino Matterig
+            </div>
+            <div id="responsive-btn" class="d-md-block d-lg-none mr-5">
+                <font-awesome-icon :icon="['fas', 'bars']" />
+            </div>
+            <ul class="d-none d-md-none d-lg-block">
+                <a href="#heading-wrap" v-smooth-scroll><li>Home</li></a>
+                <a href="#education" v-smooth-scroll="{offset: -100}"><li>My Education</li></a>
+                <a href="#work-summary-and-objectives" v-smooth-scroll="{offset: -100}"><li>Work Summary</li></a>
+                <a href="#work-summary-and-objectives" v-smooth-scroll="{offset: -100}"><li>Experiences</li></a>
+                <a href="#skills" v-smooth-scroll="{offset: -100}"><li>Skills</li></a>
+                <a href="#my-works" v-smooth-scroll="{offset: -100}"><li>Works</li></a>
+                <a href="#contact" v-smooth-scroll="{offset: -100}"><li>Contact</li></a>
+            </ul>
+        </div>
         <div id="heading-wrap" class="d-flex align-items-center justify-content-center">
             <div id="greetings">
                 <h1 data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">Hi, I'm <span>Gavino Matterig</span></h1>
                 <h4 data-aos="fade-right" data-aos-delay="500" data-aos-duration="1100">I'm a freelance web developer.</h4>
+                <a href="https://github.com/hypergavs" class="btn text-white" target="_blank">
+                    <h1><font-awesome-icon :icon="['fab', 'github']" /></h1>
+                </a>
             </div>
             <div id="more_about_me">
                 <p>Learn more about me.</p>
                 <div id="arrow">
-                    <font-awesome-icon :icon="['fas', 'angle-double-down']" />
+                    <a href="#education" class="btn text-white" v-smooth-scroll>
+                        <h1>
+                            <font-awesome-icon :icon="['fas', 'angle-double-down']" />
+                        </h1>
+                    </a>
                 </div>
             </div>
         </div>

@@ -9,6 +9,74 @@ body{
 #main-wrapper{
     width: 100%;
     min-height: 100vh;
+    #nav-bar.scrolled{
+        height: 60px;
+        background: #FFF;
+        box-shadow: 0px 3px 3px rgba(0,0,0,0.3);
+        a{
+            color: rgb(71, 71, 71);
+        }
+        #responsive-btn{
+            color: rgb(71, 71, 71);
+            font-size: 25px;
+        }
+        ul{
+            padding:0;
+            margin:0;
+            margin-right: 50px;
+            a{
+                padding: 20px 12px;
+                color: rgb(71, 71, 71);
+            }
+            a:hover{
+                color: rgb(195, 195, 195);
+            }
+            li{
+                list-style: none;
+                display:inline-block;
+            }
+        }
+    }
+    #nav-bar{
+        #responsive-btn{
+            color: #FFF;
+            font-size: 30px;
+            cursor: pointer;
+        }
+        z-index: 1000;
+        position: fixed;
+        height: 80px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 300;
+        font-size: 14px;
+        transition: 200ms ease-in-out;
+        #branding{
+            color: rgb(0, 108, 202) !important;
+            font-size: 25px;
+            font-weight: bold;
+            margin-left: 50px;
+        }
+        ul{
+            padding:0;
+            margin:0;
+            margin-right: 50px;
+            a{
+                padding: 20px 12px;
+                color: #FFF;
+            }
+            a:hover{
+                color: rgb(195, 195, 195);
+            }
+            li{
+                list-style: none;
+                display:inline-block;
+            }
+        }
+    }
     #heading-wrap{
         width: 100%;
         height: 100vh;
@@ -97,10 +165,67 @@ body{
 }
 
 
-@media (max-width: 900px){
+@media (max-width: 992px){
 
 #main-wrapper{
+
+    #nav-bar.scrolled{
+        height: 60px;
+        background: #FFF;
+        a{
+            color: rgb(71, 71, 71);
+        }
+        #responsive-btn{
+            color: rgb(71, 71, 71);
+            font-size: 25px;
+        }
+        ul{
+            padding:0;
+            margin:0;
+            top: 60px;
+            margin-right: 50px;
+            a{
+                padding: 0;
+                color: rgb(71, 71, 71);
+            }
+            a:hover{
+                color: rgb(195, 195, 195);
+            }
+            li{
+                list-style: none;
+                display:inline-block;
+            }
+        }
+    }
+    #nav-bar{
+        
+        ul{
+            position: absolute;
+            background: #FFF;
+            top: 80px;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            a{
+                display: block;
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                color: rgb(71, 71, 71);
+            }
+            li{
+                
+                padding: 10px 20px;
+                width: 100%;
+                display: block;
+            }
+        }
+    }
+
     #heading-wrap{
+
+        
+        
         #greetings{
             color: #FFF;
             h1{
@@ -122,6 +247,11 @@ body{
 @media (max-width: 768px){
 
     #main-wrapper{
+
+        
+
+
+
         #heading-wrap{
             #greetings{
                 color: #FFF;
@@ -138,4 +268,4 @@ body{
     
     
     
-    }
+}
