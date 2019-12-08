@@ -28,7 +28,7 @@
             <div id="more_about_me">
                 <p>Learn more about me.</p>
                 <div id="arrow">
-                    <a href="#education" class="btn text-white" v-smooth-scroll>
+                    <a href="#education" class="btn text-white" v-smooth-scroll="{offset: -100}">
                         <h1>
                             <font-awesome-icon :icon="['fas', 'angle-double-down']" />
                         </h1>
