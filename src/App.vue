@@ -4,7 +4,7 @@
             <div id="branding">
                 Gavino Matterig
             </div>
-            <div id="responsive-btn" class="d-md-block d-lg-none mr-5">
+            <div id="responsive-btn" class="d-md-block d-lg-none mr-3">
                 <font-awesome-icon :icon="['fas', 'bars']" />
             </div>
             <ul class="d-none d-md-none d-lg-block">
@@ -61,13 +61,13 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="500">
+                    <div class="col-md-6" data-aos="fade-right" data-aos-delay="500">
                         <p class="text-center">
                             I worked as an IT Administrator for a BPO company with responsibilities handling networking, Linux based VPS, VOIP setup and security, websites and computer hardware & software servicing. Subsequently, I worked as a freelance web developer to enhance and broaden my skills in web development and worked with several projects for student projects, Websites, and business systems for Pharmacy and Lending companies with proficiency like Wordpress and Web Frameworks.
                         </p>
                     </div>
                     <div class="col-md-6">
-                        <img src="images/work-experience.svg" class="img img-fluid" alt="" srcset="" data-aos="fade-left" data-aos-delay="700">
+                        <img src="images/work-experience.svg" class="img img-fluid" alt="" srcset="" data-aos="fade-up" data-aos-delay="700">
                     </div>
                 </div>
                 
@@ -80,7 +80,7 @@
         <div id="skills" class="container-fluid p-5 mt-5">
             <h2 class="text-center mb-5" data-aos="zoom-in">Technical Skills</h2>
             <div class="row justify-content-center">
-                <div class="col-md-12 d-flex">
+                <div class="col-md-12 d-flex flex-wrap">
 
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="100">
                         <div class="icon align-self-center">
@@ -149,7 +149,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12 d-flex">
+                <div class="col-md-12 d-flex flex-wrap">
                     <div class="skill d-flex flex-column justify-content-center" data-aos="fade-zoom-in" data-aos-delay="900">
                         <div class="icon align-self-center">
                             <img src="images/skills/wordpress.svg" class="img" alt="" srcset="">
